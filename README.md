@@ -1,2 +1,2 @@
 # DBMS-LAB
-Data Structures Laboratory
+Database Management system laboratory
